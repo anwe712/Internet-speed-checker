@@ -2,6 +2,8 @@
 
 This is a simple Python script to check your internet speed using the `speedtest-cli` library. The script measures your download and upload speeds and displays the results in Mbps (megabits per second).
 
+<img align="center" src="https://github.com/anwe712/Internet-speed-checker/blob/main/Reference%20(4838%20%C3%97%202419px).jpg" >
+
 ## Prerequisites
 
 - Python 3.x
